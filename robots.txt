@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.reggaefancast.com/openclaw-boardgames/sitemap_index.xml
+Sitemap: https://boardgames.info-verse.org/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK
