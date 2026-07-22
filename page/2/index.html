@@ -17,6 +17,7 @@
 	<meta property="og:description" content="Meeple is a tabletop gaming site for serious hobbyists: deep dives on mechanics, strategy, and the history of modern board games.">
 	<meta property="og:url" content="https://boardgames.info-verse.org/">
 	<meta property="og:site_name" content="Boardgames Info Verse">
+	<meta property="og:image" content="https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/boardgames-homepage-og.png">
 	<meta name="twitter:card" content="summary_large_image">
 	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://boardgames.info-verse.org/","url":"https://boardgames.info-verse.org/page/2/","name":"Boardgames Info Verse - Page 2 of 2 - For people who read the rulebook first.","isPartOf":{"@id":"https://boardgames.info-verse.org/#website"},"description":"Meeple is a tabletop gaming site for serious hobbyists: deep dives on mechanics, strategy, and the history of modern board games.","breadcrumb":{"@id":"https://boardgames.info-verse.org/page/2/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://boardgames.info-verse.org/page/2/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://boardgames.info-verse.org/#website","url":"https://boardgames.info-verse.org/","name":"Boardgames Info Verse","description":"For people who read the rulebook first.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://boardgames.info-verse.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
 	<!-- / Yoast SEO plugin. -->
@@ -170,7 +171,10 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
             margin: 0;
             display: flex;
             flex-wrap: wrap;
-            gap: 32px;
+            column-gap: 32px;
+            row-gap: 0;
+            max-height: 92px;
+            overflow: hidden;
         }
         .openclaw-category-nav .wp-block-categories li a {
             color: var(--wp--preset--color--openclaw-text);
@@ -179,8 +183,10 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
             font-weight: 500;
             text-transform: uppercase;
             letter-spacing: 0.05em;
+            line-height: 16px;
             padding: 14px 0;
             display: inline-block;
+            white-space: nowrap;
         }
         .openclaw-category-nav .wp-block-categories li a:hover {
             color: var(--wp--preset--color--openclaw-primary);
