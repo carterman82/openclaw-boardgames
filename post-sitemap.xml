@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://boardgames.info-verse.org/</loc>
-		<lastmod>2026-07-26T01:14:46+00:00</lastmod>
+		<lastmod>2026-07-26T20:45:01+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/2026/07/16/kickstarter-fails-48-hour-rule/</loc>
@@ -139,6 +139,20 @@
 		<lastmod>2026-07-26T01:14:46+00:00</lastmod>
 		<image:image>
 			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/kickstarter-24-hour-velocity-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/2026/07/26/ticket-to-ride-route-wins-before-board/</loc>
+		<lastmod>2026-07-26T19:59:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/ticket-to-ride-route-wins-before-board-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/2026/07/26/anime-board-games-not-collecting-miniatures/</loc>
+		<lastmod>2026-07-26T20:45:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/anime-board-games-not-collecting-miniatures-featured.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
