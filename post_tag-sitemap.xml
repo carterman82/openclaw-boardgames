@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://boardgames.info-verse.org/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://boardgames.info-verse.org/tag/15-minute-rule/</loc>
+		<lastmod>2026-07-25T14:10:44+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://boardgames.info-verse.org/tag/alan-moon/</loc>
 		<lastmod>2026-07-19T21:11:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/tag/ascension/</loc>
+		<lastmod>2026-07-24T01:13:21+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/azul/</loc>
@@ -29,8 +37,16 @@
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://boardgames.info-verse.org/tag/campaign-strategy/</loc>
+		<lastmod>2026-07-24T19:25:55+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://boardgames.info-verse.org/tag/catan/</loc>
 		<lastmod>2026-07-19T21:11:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/tag/cooperative/</loc>
+		<lastmod>2026-07-25T19:15:18+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/cooperative-games/</loc>
@@ -42,7 +58,11 @@
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/deck-building/</loc>
-		<lastmod>2026-07-23T19:09:27+00:00</lastmod>
+		<lastmod>2026-07-24T01:13:21+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/tag/design/</loc>
+		<lastmod>2026-07-25T19:15:18+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/design-analysis/</loc>
@@ -54,7 +74,7 @@
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/dominion/</loc>
-		<lastmod>2026-07-23T13:21:41+00:00</lastmod>
+		<lastmod>2026-07-24T01:13:21+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/drafting/</loc>
@@ -63,6 +83,10 @@
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/engine-building/</loc>
 		<lastmod>2026-07-21T13:43:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/tag/family/</loc>
+		<lastmod>2026-07-25T19:15:18+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/family-games-2/</loc>
@@ -77,12 +101,20 @@
 		<lastmod>2026-07-19T21:11:29+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://boardgames.info-verse.org/tag/funding/</loc>
+		<lastmod>2026-07-26T01:14:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/tag/game-design-2/</loc>
+		<lastmod>2026-07-24T19:25:55+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://boardgames.info-verse.org/tag/game-mechanics/</loc>
 		<lastmod>2026-07-21T13:43:43+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/game-design/</loc>
-		<lastmod>2026-07-23T19:09:27+00:00</lastmod>
+		<lastmod>2026-07-25T14:10:44+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/gateway/</loc>
@@ -102,15 +134,23 @@
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/kickstarter/</loc>
-		<lastmod>2026-07-20T14:30:25+00:00</lastmod>
+		<lastmod>2026-07-26T01:14:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/king-of-tokyo/</loc>
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://boardgames.info-verse.org/tag/launch/</loc>
+		<lastmod>2026-07-26T01:14:46+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://boardgames.info-verse.org/tag/legacy-campaigns/</loc>
 		<lastmod>2026-07-21T19:15:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/tag/legacy-games/</loc>
+		<lastmod>2026-07-24T19:25:55+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/math/</loc>
@@ -122,7 +162,7 @@
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/mechanics/</loc>
-		<lastmod>2026-07-23T19:09:27+00:00</lastmod>
+		<lastmod>2026-07-24T01:13:21+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/opening/</loc>
@@ -130,11 +170,15 @@
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/pandemic-legacy/</loc>
-		<lastmod>2026-07-21T19:15:52+00:00</lastmod>
+		<lastmod>2026-07-24T19:25:55+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/penalty-phase/</loc>
 		<lastmod>2026-07-20T00:58:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/tag/permanent-board/</loc>
+		<lastmod>2026-07-24T19:25:55+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/probability/</loc>
@@ -165,6 +209,10 @@
 		<lastmod>2026-07-22T01:19:34+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://boardgames.info-verse.org/tag/solo-play-2/</loc>
+		<lastmod>2026-07-25T14:10:44+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://boardgames.info-verse.org/tag/spiel-des-jahres/</loc>
 		<lastmod>2026-07-19T21:11:29+00:00</lastmod>
 	</url>
@@ -186,11 +234,19 @@
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/strategy/</loc>
-		<lastmod>2026-07-23T19:09:27+00:00</lastmod>
+		<lastmod>2026-07-26T01:14:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/ticket-to-ride/</loc>
 		<lastmod>2026-07-19T21:11:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/tag/two-player/</loc>
+		<lastmod>2026-07-25T01:14:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/tag/velocity/</loc>
+		<lastmod>2026-07-26T01:14:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/tag/worker-placement/</loc>

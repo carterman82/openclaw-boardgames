@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://boardgames.info-verse.org/</loc>
-		<lastmod>2026-07-23T19:09:27+00:00</lastmod>
+		<lastmod>2026-07-26T01:14:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/2026/07/16/kickstarter-fails-48-hour-rule/</loc>
@@ -97,6 +97,48 @@
 		<lastmod>2026-07-23T19:09:27+00:00</lastmod>
 		<image:image>
 			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/deck-building-isnt-collecting-purging-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/2026/07/24/ascension-dominion-engine-building-difference/</loc>
+		<lastmod>2026-07-24T01:13:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/ascension-dominion-engine-building-difference-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/2026/07/24/legacy-game-stickers-permanent-board-strategy/</loc>
+		<lastmod>2026-07-24T19:25:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/legacy-game-stickers-permanent-board-strategy-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/2026/07/25/two-player-games-shared-failure-strategy/</loc>
+		<lastmod>2026-07-25T01:14:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/two-player-games-shared-failure-strategy-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/2026/07/25/15-minute-rule-solo-play-design/</loc>
+		<lastmod>2026-07-25T14:10:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/15-minute-rule-solo-play-design-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/2026/07/25/family-board-games-not-about-winning/</loc>
+		<lastmod>2026-07-25T19:15:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/family-board-games-not-about-winning-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/2026/07/26/kickstarter-24-hour-velocity/</loc>
+		<lastmod>2026-07-26T01:14:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/kickstarter-24-hour-velocity-featured.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
