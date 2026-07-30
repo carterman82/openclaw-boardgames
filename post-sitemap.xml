@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://boardgames.info-verse.org/</loc>
-		<lastmod>2026-07-27T01:11:30+00:00</lastmod>
+		<lastmod>2026-07-30T00:35:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/2026/07/16/kickstarter-fails-48-hour-rule/</loc>
@@ -160,6 +160,62 @@
 		<lastmod>2026-07-27T01:11:30+00:00</lastmod>
 		<image:image>
 			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/expeditions-solo-campaign-play-wrong-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/2026/07/27/brass-birmingham-opening-loan-strategy/</loc>
+		<lastmod>2026-07-27T14:16:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/brass-birmingham-opening-loan-strategy-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/2026/07/27/codenames-one-word-constraint-liars/</loc>
+		<lastmod>2026-07-27T19:14:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/codenames-one-word-constraint-liars-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/2026/07/28/kickstarter-400-percent-funding-threshold/</loc>
+		<lastmod>2026-07-28T13:21:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/kickstarter-400-percent-funding-threshold-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/2026/07/28/nemesis-solo-escape-panic-button/</loc>
+		<lastmod>2026-07-28T18:29:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/nemesis-solo-escape-panic-button-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/2026/07/29/dark-solo-aggression-beats-stealth/</loc>
+		<lastmod>2026-07-29T00:25:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/dark-solo-aggression-beats-stealth-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/2026/07/29/uwe-rosenberg-agricola-early-game-trap/</loc>
+		<lastmod>2026-07-29T13:21:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/uwe-rosenberg-agricola-early-game-trap-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/2026/07/29/20-strong-solo-horror-puzzle/</loc>
+		<lastmod>2026-07-29T18:21:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/20-strong-solo-horror-puzzle-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/2026/07/30/root-opening-move-decides-game/</loc>
+		<lastmod>2026-07-30T00:35:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/07/root-opening-move-decides-game-featured.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
