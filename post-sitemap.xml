@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://boardgames.info-verse.org/</loc>
-		<lastmod>2026-08-09T00:31:37+00:00</lastmod>
+		<lastmod>2026-08-09T13:25:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/2026/07/16/kickstarter-fails-48-hour-rule/</loc>
@@ -342,6 +342,13 @@
 		<lastmod>2026-08-09T00:31:37+00:00</lastmod>
 		<image:image>
 			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/08/7-wonders-duel-card-play-timing-breaks-strategy-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/2026/08/09/betrayal-haunted-house-traitor-dilemma/</loc>
+		<lastmod>2026-08-09T13:25:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/08/betrayal-haunted-house-traitor-dilemma-featured.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
