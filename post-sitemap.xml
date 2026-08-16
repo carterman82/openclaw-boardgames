@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://boardgames.info-verse.org/</loc>
-		<lastmod>2026-08-15T18:28:38+00:00</lastmod>
+		<lastmod>2026-08-16T00:27:07+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://boardgames.info-verse.org/2026/07/16/kickstarter-fails-48-hour-rule/</loc>
@@ -433,6 +433,13 @@
 		<lastmod>2026-08-15T18:28:38+00:00</lastmod>
 		<image:image>
 			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/08/machikoro-kingdomino-deck-building-gateway-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://boardgames.info-verse.org/2026/08/16/kingdomino-spatial-planning-over-luck/</loc>
+		<lastmod>2026-08-16T00:27:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://boardgames.info-verse.org/wp-content/uploads/sites/4/2026/08/kingdomino-spatial-planning-over-luck-featured.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
